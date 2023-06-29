@@ -41,3 +41,11 @@ wolfy[3] = "Gotham City";
 dart.push("Hawkins");
 wolfy[0] = "Gameboy";
 
+//Yell at the Ninja Turtles
+
+let ninjaTurtle = ['Donatello','Leonardo','Raphael','Michaelangelo'];
+
+for(let ninja of ninjaTurtle){
+    console.log(ninja.toLocaleUpperCase());
+}
+
